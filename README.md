@@ -7,9 +7,12 @@ I don’t just write docs, I tell stories that connect products to people.
 Whether it’s API documentation that helps developers move faster, UX copy that makes apps feel effortless, or SEO content that brings products to the world, my goal is always the same: turn complexity into clarity.
 
 <div data-node-type="callout">
-<div data-node-type="callout-emoji">📧</div>
+
 <div data-node-type="callout-text"><strong>Contact:</strong> <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="mailto:nancynwankwo3@gmail.com" style="pointer-events: none;">Email</a></div>
 </div>
+
+&ensp;
+
 
 I know how hard it can be to understand complex words. That’s why I made it my mission to make technical content simple, clear, and human. Over the past few years, I have helped startups, tech teams, and businesses improve their written content, reducing support tickets, creating UX copy that guides users effortlessly, and crafting SEO content that drives real results.
 
@@ -90,5 +93,6 @@ My writing doesn’t just explain. It reduces support tickets, boosts adoption, 
 📩 Let’s work together to create documentation that makes your product stand out.
 
 <div data-node-type="callout">
-<div data-node-type="callout-emoji">📧</div><div data-node-type="callout-text"><strong>Contact:</strong> <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="mailto:nancynwankwo3@gmail.com" style="pointer-events: none;">Email</a></div>
+
+<div data-node-type="callout-text"><strong>Contact:</strong> <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="mailto:nancynwankwo3@gmail.com" style="pointer-events: none;">Email</a></div>
 </div>
