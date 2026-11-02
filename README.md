@@ -94,5 +94,5 @@ My writing doesn’t just explain. It reduces support tickets, boosts adoption, 
 
 <div data-node-type="callout">
 
-<div data-node-type="callout-text"><strong>Contact:</strong> <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="mailto:nancynwankwo3@gmail.com" style="pointer-events: none;">Email</a></div>
+<div data-node-type="callout-text"><strong>Contact:</strong> <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="mailto:nancywritesnow@gmail.com" style="pointer-events: none;">Email</a></div>
 </div>
